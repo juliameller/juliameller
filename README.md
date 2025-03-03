@@ -22,7 +22,7 @@
 ### Projetos 🚀
 - [**Sistema para transportadora**](https://github.com/juliameller/sistema-transportadora): Sistema simples para uma transportadora com consulta de trechos, valores e orçamentos em Python.
 - [**Sistema de Biblioteca**](https://github.com/juliameller/BibliotecaMicrosservicos): Sistema de gestão de empréstimos e devoluções utilizando arquitetura de microsserviços.
-- [**Sistema ERP estúdio estética**](https://github.com/juliameller/jogo-halloween): Sistema web desenvolvido para um estúdio de estética com funcionalidades de agendamento e gestão de clientes e serviços.
+- [**Sistema ERP estúdio estética**](https://github.com/juliameller/EstudioEstetica): Sistema web desenvolvido para um estúdio de estética com funcionalidades de agendamento e gestão de clientes e serviços.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliameller&show_icons=true&theme=blue)
